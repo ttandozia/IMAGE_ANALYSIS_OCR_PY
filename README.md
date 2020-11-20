@@ -6,7 +6,7 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 
 **Here you'll find these descriptors/treatments:**
 
-- Skeleton of Zhang-Suen
+- Skeleton of Zhang-Suen;
 - Histogram of Oriented Gradient (HOG);
 - Image area;
 - Image height and width;
@@ -19,12 +19,12 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 - Euler number;
 - Area and perimeter of the convex closure;
 - Convexity;
-- Solidity
+- Solidity.
 
 **Also, I used two Mcahine Learning models to predict the new images:**
 
 - K-means;
-- Random Forest
+- Random Forest.
 
 **Conclusions**
 
