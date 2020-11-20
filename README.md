@@ -28,7 +28,7 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 
 **Conclusions**
 
-- Machine learning models applied with HOG performed much better than the ones with the descriptors extracted separately.
+- Machine learning models applied with HOG performed much better than the ones with the descriptors extracted separately;
 - The random forest performed better when compared to k-means, for both versions, with and without HOG;
 - I used the Zhang-Suen skeleton because we have many fonts designed in a complex way. Thus, it was a good solution;
 - I chose to work with skeletons to mitigate variations in the thickness of different sources.
