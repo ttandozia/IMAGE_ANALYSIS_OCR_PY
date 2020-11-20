@@ -21,7 +21,7 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 - Convexity;
 - Solidity.
 
-**Also, I used two Mcahine Learning models to predict the new images:**
+**Also, I used two Machine Learning models to predict the new images:**
 
 - K-means;
 - Random Forest.
