@@ -33,8 +33,8 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 - I used the Zhang-Suen skeleton because we have many fonts designed in a complex way. Thus, it was a good solution;
 - I chose to work with skeletons to mitigate variations in the thickness of different sources.
 
-<img src="./print_examples/image_1.jpg" height="600" width="900">
+<img src="./print_examples/image_1.jpg" height="300" width="900">
 
-<img src="./print_examples/image_2.jpg" height="600" width="300">
+<img src="./print_examples/image_2.jpg" height="600" width="600">
 
 
