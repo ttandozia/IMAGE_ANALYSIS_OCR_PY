@@ -35,6 +35,6 @@ it has purposes linked to academic research. Therefore, I was not allowed to lea
 
 <img src="./print_examples/image_1.jpg" height="300" width="900">
 
-<img src="./print_examples/image_2.jpg" height="600" width="600">
+<img src="./print_examples/image_2.jpg" height="200" width="200">
 
 
